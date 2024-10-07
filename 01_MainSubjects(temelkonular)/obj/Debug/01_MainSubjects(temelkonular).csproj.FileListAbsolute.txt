@@ -1,0 +1,7 @@
+C:\Users\ukara\source\repos\CsharpEgitimkampi\01_MainSubjects(temelkonular)\bin\Debug\01_MainSubjects(temelkonular).exe.config
+C:\Users\ukara\source\repos\CsharpEgitimkampi\01_MainSubjects(temelkonular)\bin\Debug\01_MainSubjects(temelkonular).exe
+C:\Users\ukara\source\repos\CsharpEgitimkampi\01_MainSubjects(temelkonular)\bin\Debug\01_MainSubjects(temelkonular).pdb
+C:\Users\ukara\source\repos\CsharpEgitimkampi\01_MainSubjects(temelkonular)\obj\Debug\01_MainSubjects(temelkonular).csproj.AssemblyReference.cache
+C:\Users\ukara\source\repos\CsharpEgitimkampi\01_MainSubjects(temelkonular)\obj\Debug\01_MainSubjects(temelkonular).csproj.CoreCompileInputs.cache
+C:\Users\ukara\source\repos\CsharpEgitimkampi\01_MainSubjects(temelkonular)\obj\Debug\01_MainSubjects(temelkonular).exe
+C:\Users\ukara\source\repos\CsharpEgitimkampi\01_MainSubjects(temelkonular)\obj\Debug\01_MainSubjects(temelkonular).pdb
